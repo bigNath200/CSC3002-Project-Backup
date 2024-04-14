@@ -1,0 +1,4 @@
+../Core/Src/PQCgenKAT_kem.c:26:1:main	4944	static
+../Core/Src/PQCgenKAT_kem.c:134:1:FindMarker	80	static
+../Core/Src/PQCgenKAT_kem.c:174:1:ReadHex	40	static
+../Core/Src/PQCgenKAT_kem.c:218:1:fprintBstr	40	static

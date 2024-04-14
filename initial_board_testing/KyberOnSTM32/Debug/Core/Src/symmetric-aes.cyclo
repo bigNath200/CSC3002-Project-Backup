@@ -1,0 +1,2 @@
+../Core/Src/symmetric-aes.c:7:6:kyber_aes256xof_absorb	1
+../Core/Src/symmetric-aes.c:15:6:kyber_aes256ctr_prf	1

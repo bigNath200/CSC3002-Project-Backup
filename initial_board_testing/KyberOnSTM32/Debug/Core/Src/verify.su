@@ -1,0 +1,2 @@
+../Core/Src/verify.c:16:5:pqcrystals_kyber768_ref_verify	48	static
+../Core/Src/verify.c:40:6:pqcrystals_kyber768_ref_cmov	32	static,ignoring_inline_asm

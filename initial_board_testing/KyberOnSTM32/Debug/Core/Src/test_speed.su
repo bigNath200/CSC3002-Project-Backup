@@ -1,0 +1,2 @@
+../Core/Src/cpucycles.h:14:24:cpucycles	16	static,ignoring_inline_asm
+../Core/Src/test_speed.c:19:5:main	14520	static
