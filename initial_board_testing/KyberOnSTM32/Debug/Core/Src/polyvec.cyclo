@@ -1,9 +1,0 @@
-../Core/Src/polyvec.c:15:6:pqcrystals_kyber768_ref_polyvec_compress	4
-../Core/Src/polyvec.c:76:6:pqcrystals_kyber768_ref_polyvec_decompress	4
-../Core/Src/polyvec.c:126:6:pqcrystals_kyber768_ref_polyvec_tobytes	2
-../Core/Src/polyvec.c:143:6:pqcrystals_kyber768_ref_polyvec_frombytes	2
-../Core/Src/polyvec.c:157:6:pqcrystals_kyber768_ref_polyvec_ntt	2
-../Core/Src/polyvec.c:172:6:pqcrystals_kyber768_ref_polyvec_invntt_tomont	2
-../Core/Src/polyvec.c:189:6:pqcrystals_kyber768_ref_polyvec_basemul_acc_montgomery	2
-../Core/Src/polyvec.c:212:6:pqcrystals_kyber768_ref_polyvec_reduce	2
-../Core/Src/polyvec.c:228:6:pqcrystals_kyber768_ref_polyvec_add	2

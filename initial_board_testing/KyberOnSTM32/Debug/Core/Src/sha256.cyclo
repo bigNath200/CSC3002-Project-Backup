@@ -1,4 +1,0 @@
-../Core/Src/sha256.c:7:17:load_bigendian	1
-../Core/Src/sha256.c:17:13:store_bigendian	1
-../Core/Src/sha256.c:67:12:crypto_hashblocks_sha256	2
-../Core/Src/sha256.c:229:6:pqcrystals_sha2_ref_sha256	7

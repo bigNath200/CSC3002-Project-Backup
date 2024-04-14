@@ -1,4 +1,0 @@
-../Core/Src/cbd.c:15:17:load32_littleendian	24	static
-../Core/Src/cbd.c:58:13:cbd2	40	static
-../Core/Src/cbd.c:110:6:pqcrystals_kyber768_ref_poly_cbd_eta1	16	static
-../Core/Src/cbd.c:121:6:pqcrystals_kyber768_ref_poly_cbd_eta2	16	static

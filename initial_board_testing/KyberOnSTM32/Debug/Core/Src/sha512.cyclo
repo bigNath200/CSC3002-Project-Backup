@@ -1,4 +1,0 @@
-../Core/Src/sha512.c:9:17:load_bigendian	1
-../Core/Src/sha512.c:23:13:store_bigendian	1
-../Core/Src/sha512.c:77:12:crypto_hashblocks_sha512	2
-../Core/Src/sha512.c:258:6:pqcrystals_sha2_ref_sha512	7

@@ -1,4 +1,0 @@
-../Core/Src/speed_print.c:8:12:cmp_uint64	3
-../Core/Src/speed_print.c:14:17:median	2
-../Core/Src/speed_print.c:21:17:average	2
-../Core/Src/speed_print.c:31:6:print_results	4
